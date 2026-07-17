@@ -1,161 +1,171 @@
-<h1 align="center">
-Hi 👋, I'm Prathamesh Raut
-</h1>
+<h1 align="center">Hi 👋, I'm Prathamesh Raut</h1>
 
 <h3 align="center">
-Full Stack Developer • AI Engineer • Building Intelligent Software
+Associate Full Stack Developer • AI Engineer • Backend Enthusiast
 </h3>
 
 <p align="center">
-Passionate about AI, Backend Engineering, and building scalable web applications that solve real-world problems.
+Building scalable web applications, AI-powered products, and clean backend systems.
 </p>
 
 <p align="center">
-<a href="https://readme-typing-svg.herokuapp.com">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Associate+Full+Stack+Developer;AI+Engineer;FastAPI+%7C+React+%7C+Spring+Boot;Building+AI-Powered+Products;Always+Learning+New+Technologies" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=800&color=00C8FF&lines=Full+Stack+Developer;AI+Engineer;React+%7C+FastAPI+%7C+Spring+Boot;Backend+Developer;Always+Learning+Something+New" />
 </p>
 
 ---
 
-<p align="center">
-<img src="assets/banner.gif" width="900"/>
-</p>
+# 🚀 About Me
+
+```java
+class PrathameshRaut {
+
+    String role = " Full Stack Developer";
+
+    String location = "Pune, India";
+
+    String[] interests = {
+        "Backend Engineering",
+        "Artificial Intelligence",
+        "System Design",
+        "Cloud",
+        "Open Source"
+    };
+
+    String currentlyLearning =
+        "AI Agents • RAG • Scalable Backend Systems";
+
+}
+```
 
 ---
 
-# 👨‍💻 About Me
+# 💻 Tech Stack
 
-- 💼  Full Stack Developer
-- 🚀 Building AI-powered products using LLMs
-- 🧠 Passionate about Backend Engineering & Clean Architecture
-- 🌱 Currently exploring AI Agents & RAG Systems
-- 💻 Love building scalable REST APIs
-- 📍 Pune, Maharashtra, India
-
----
-
-# 🚀 Current Focus
-
-- 🤖 AI Applications
-- ⚡ FastAPI & Spring Boot
-- 🏗 Backend System Design
-- 🧠 Large Language Models
-- 🐳 Docker & CI/CD
-- ☁ Cloud Deployment
-
----
-
-# 🛠 Tech Stack
-
-## Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,sql"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=typescript"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
-## Frontend
+---
+
+### Frontend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+
 </p>
 
-## Backend
+---
+
+### Backend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi"/>
+
 </p>
 
-## Database
+---
+
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+
 </p>
 
-## DevOps & Cloud
+---
+
+### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,linux,git"/>
-</p>
 
-## AI & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,aws,azure,linux"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vscode,postman"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 CompanySnapshot
+## 📊 CompanySnapshot
 
-LLM-powered Financial Intelligence Platform
+> AI-powered financial intelligence platform that extracts structured insights from SEC filings using LLMs.
 
 **Tech**
 
-- FastAPI
-- React
-- PostgreSQL
-- Docker
-- Gemini
-- SEC Filings
-- AI Extraction
+FastAPI • React • PostgreSQL • Docker • Gemini
 
 ---
 
 ## 🎓 FutureHire AI
 
-AI Career Operating System
+AI Career Operating System for engineering students.
 
 Features
 
 - Resume Analysis
 - GitHub Analysis
-- AI Career Roadmap
 - Skill Gap Detection
-- Job Readiness Score
-
+- AI Roadmaps
+- Career Readiness Score
 
 ---
 
+
 ## 📚 ExamGenie
 
-AI-powered Exam Preparation Platform
+AI-powered exam preparation platform.
 
 - OCR
 - AI Grading
-- Topic Prediction
 - Mock Test Generation
+- Topic Prediction
 
 ---
 
 ## 💼 Job Tracker
 
-Full Stack Job Application Tracker
+Track job applications with analytics.
 
-- React
-- FastAPI
-- PostgreSQL
-- Docker
+React
+
+Node.js
+
+PostgreSQL
+
+Docker
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180em"
+<img height="170"
 src="https://github-readme-stats.vercel.app/api?username=Pratham3shRaut&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em"
+<img height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham3shRaut&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -165,7 +175,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham3shRa
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -175,13 +185,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham3shRa
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌱 Currently Exploring
 
-<p align="center">
+- AI Agents
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pratham3shRaut&theme=tokyonight&no-frame=true&row=1&column=6"/>
+- Retrieval-Augmented Generation (RAG)
 
-</p>
+- Spring Boot Microservices
+
+- Scalable API Design
+
+- Cloud Deployments
 
 ---
 
@@ -190,51 +204,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham3shRa
 <p align="center">
 
 <a href="https://www.linkedin.com/in/prathameshraut1/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://prathameshportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/Pratham3shRaut">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:prathameshrautanj@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💬 Quote
 
-> **"Build products that create value, not just projects."**
-
----
-
-# ⚡ Fun Facts
-
-- ☕ Coffee + Code = Productivity
-- 🤖 Love building AI products
-- 🚀 Always exploring new technologies
-- 📚 Continuous learner
-- 💙 Open Source Enthusiast
+> "I enjoy building software that solves real problems with clean architecture, scalable systems, and AI."
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Pratham3shRaut&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ If you like my work, consider starring my repositories!
+⭐ Thanks for visiting my profile!
 
 </p>
