@@ -14,29 +14,16 @@ Building scalable web applications, AI-powered products, and clean backend syste
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-```java
-class PrathameshRaut {
+- 💼 Full Stack Developer
+- 🚀 Building AI-powered products using LLMs
+- 🧠 Passionate about Backend Engineering & Clean Architecture
+- 🌱 Currently exploring AI Agents & RAG Systems
+- 💻 Love building scalable REST APIs
+- 📍 Pune, Maharashtra, India
 
-    String role = " Full Stack Developer";
-
-    String location = "Pune, India";
-
-    String[] interests = {
-        "Backend Engineering",
-        "Artificial Intelligence",
-        "System Design",
-        "Cloud",
-        "Open Source"
-    };
-
-    String currentlyLearning =
-        "AI Agents • RAG • Scalable Backend Systems";
-
-}
-```
-
+---
 ---
 
 # 💻 Tech Stack
@@ -151,26 +138,27 @@ Docker
 
 ---
 
-# 📈 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Pratham3shRaut&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham3shRaut&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pratham3shRaut&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham3shRaut&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
-
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pratham3shRaut&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=Pratham3shRaut&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
