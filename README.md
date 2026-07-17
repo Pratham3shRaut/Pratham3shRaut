@@ -162,15 +162,7 @@ Docker
 
 ---
 
-# 📊 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham3shRaut&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🌱 Currently Exploring
 
