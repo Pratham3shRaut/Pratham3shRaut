@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Raut</h1>
 
 <h3 align="center">
-Associate Full Stack Developer • AI Engineer • Backend Enthusiast
+ Full Stack Developer • AI Engineer • Backend Enthusiast
 </h3>
 
 <p align="center">
